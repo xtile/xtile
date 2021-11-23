@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtile&label=Views&color=blue&style=plastic" alt="xtile" /> </p>
