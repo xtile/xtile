@@ -23,8 +23,7 @@ https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/sql
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Raspberry PI" width="26px" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/256.png" />
-<img align="left" alt="Arduino" width="26px" src="
-https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/Arduino.png" />
+<img align="left" alt="Arduino" width="26px" src="https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/Arduino.png" />
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -34,6 +33,7 @@ https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/Ard
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="TensorFlow" width="26px" src="https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/tensorflow.png" />
+<img align="left" alt="Numpy" width="26px" src="https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/numpy.png" />
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtile&theme=dracula&hide_langs_below=1" />
