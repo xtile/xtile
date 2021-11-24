@@ -34,6 +34,8 @@
 <img align="left" alt="TensorFlow" width="26px" src="https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/tensorflow.png" />
 <img align="left" alt="Numpy" width="26px" src="https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/numpy.png" />
 
-
+<p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtile&theme=dracula&hide_langs_below=1" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xtile&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+</p>
+  
