@@ -18,12 +18,11 @@
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="SQLite" width="26px" src="
-https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/sqlite.png" />
+<img align="left" alt="SQLite" width="26px" src="https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/sqlite.png" />
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 <img align="left" alt="Raspberry PI" width="26px" src="https://raw.githubusercontent.com/iiiypuk/rpi-icon/master/256.png" />
-<img align="left" alt="Arduino" width="26px" src="https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/Arduino.png" />
+<img align="left" alt="Arduino" width="26px" src="https://github.com/xtile/xtile/blob/f9334d3f226701f2f22c114551c0d6d600ad6c3f/arduino.png" />
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
